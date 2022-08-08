@@ -1,3 +1,4 @@
+#pragma once
 #include "IOperator.h"
 
 class Mul : public IOperator
